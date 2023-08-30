@@ -12,3 +12,4 @@
 |------------|------------------------------------------------------|
 | 2023-08-28 | 변수 - var vs. val, primitive type, nullable, instance |
 | 2023-08-29 | null, type                                           |
+| 2023-08-30 | operator, if, for                                    |

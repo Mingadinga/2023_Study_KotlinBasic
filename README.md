@@ -16,3 +16,4 @@
 | 2023-08-31 | exception, function                                  |
 | 2023-09-07 | class                                                |
 | 2023-09-09 | interface, abstract class, access                    |
+| 2023-09-10 | inner class, data, enum, sealed, object              |

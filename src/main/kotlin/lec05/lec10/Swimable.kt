@@ -1,4 +1,4 @@
-package lec10
+package lec05.lec10
 
 interface Swimable {
 

@@ -1,4 +1,4 @@
-package lec10
+package lec05.lec10
 
 class Cat (
     species: String // species를 초기화하는 생성자
